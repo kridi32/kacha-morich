@@ -14,10 +14,10 @@ info about reviews (name, review with rating )
 
 a 404 route must have to  include 
 
-some meaningfull commit at least 6;
+some meaningfull commit at least 6; done
 
 dashboard with 2 chart using reachart;(data is in the github)
-You should add the title on the react file
+You should add the title on the react file done
 
 
 bonus:
@@ -26,7 +26,8 @@ destructuring
 clean code 
 use custom code
 home page will have only 3 reviews
-blogs page with the answer of these questions: 
+
+blogs page with the answer of these questions: done 
     what is context api 
     semantic tag ki jinish ki?
     what is the diffirance between inline block and inline-block element?

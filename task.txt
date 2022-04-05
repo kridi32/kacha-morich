@@ -1,0 +1,32 @@
+you can change 
+no phone review site 
+you need to have a header 
+any css framework is allowed 
+
+the pages will have navigation
+home page inclueds:
+    hero section (image with text in side by side )
+    3 customer reviews
+    see all reviews button(another route)
+
+review page:
+info about reviews (name, review with rating )
+
+a 404 route must have to  include 
+
+some meaningfull commit at least 6;
+
+dashboard with 2 chart using reachart;(data is in the github)
+You should add the title on the react file
+
+
+bonus:
+readme file with name: link : 5 bullet point
+destructuring 
+clean code 
+use custom code
+home page will have only 3 reviews
+blogs page with the answer of these questions: 
+    what is context api 
+    semantic tag ki jinish ki?
+    what is the diffirance between inline block and inline-block element?

@@ -3,13 +3,13 @@ no phone review site
 you need to have a header 
 any css framework is allowed 
 
-the pages will have navigation
-home page inclueds:
-    hero section (image with text in side by side )
-    3 customer reviews
+the pages will have navigation done 
+home page inclueds: done
+    hero section (image with text in side by side ) done
+    3 customer reviews done
     see all reviews button(another route)
 
-review page:
+review page: done
 info about reviews (name, review with rating )
 
 a 404 route must have to  include 
